@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitinbetharia
-- 👀 I’m interested in web-developement using Node (html, css, javascript)
+- 👀 I’m interested in web-developement using Node (html, css, javascript), MySQL
 - 🌱 I’m currently learning Node and related technologies
 - 💞️ I’m looking to collaborate on whatever comes my way
 - 📫 Reach me at nitinbetharia@gmail.com
